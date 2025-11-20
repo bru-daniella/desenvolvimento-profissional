@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import productsApi from '~/services/api'
-import Table from 'react-bootstrap/Table';
+import { Table } from 'react-bootstrap';
 import type Product from '~/models/product';
 export function Grid() {
 

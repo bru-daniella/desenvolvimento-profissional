@@ -1,6 +1,6 @@
 # Estudo de Caso com Rotas e Consumo de API - Prática 09
 
-Este estudo de caso é um projeto realizado para demonstrar a aplicação de alguns conceitos e arquiteturas vistas na aula de ``
+Este estudo de caso é um projeto realizado para demonstrar a aplicação de alguns conceitos e arquiteturas vistas na aula de `Desenvolvimento Web`
 
 ## 🛠️ Tecnologias
 

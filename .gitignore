@@ -49,3 +49,4 @@ app-example
 # React Router
 /.react-router/
 /build/
+.vercel
